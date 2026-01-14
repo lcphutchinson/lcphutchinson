@@ -1,6 +1,6 @@
 ## Hi, I'm Larson
 
-- 🖥️ I'm a Backend Developer of 2 years, still looking for my technological niche.
+- 🖥️ I'm a Backend Developer of 4 years, still looking for my technological niche.
 - 🏗️ I'm currently designing a game management service for TTRPG authors, called Game Lieutenant.
 - 🌱 I'm picking up Golang and a bit more JS with @bootdotdev... 
 - 🔧 ...and revisiting my basics with C++.
